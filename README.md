@@ -7,6 +7,7 @@ Extract
 Transform
   Column names
   Month from date
+  Replace / with - for date separator 
   Filter for year 2019
   Aggregate rainfall and temperature for months of 2019
 Load
